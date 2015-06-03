@@ -1,0 +1,53 @@
+body {
+	font:13px "Helvetica Neue","Helvetica","Arial",sans-serif;
+	margin:0px;
+	padding:0px;
+	background:url(http://rgvnewswire.com/wp-content/uploads/2014/12/Texas-AM-Kingsville.jpg);
+	width:100%;
+	
+}
+
+.panel{
+	width:100%;
+	padding-top:3px;
+	padding-left:1px;
+	border:1px solid #cacaca;
+	box-shadow: 2px 2px 2px #cacaca;
+	background:#CFA1A8;
+	border-radius:5px;
+	margin-top:377px;
+	height:60px;
+}
+.panel2{
+	width:100%;
+	padding-top:15px;
+	border:1px solid #cacaca;
+	box-shadow: 2px 2px 2px #cacaca;
+	background:#CC5B12;
+	border-radius:5px;
+	height:300px;
+	text-align: center;
+	margin-top:0px;
+}
+.panel3{
+	width:100%;
+	padding-top:15px;
+	border:1px solid #cacaca;
+	box-shadow: 2px 2px 2px #cacaca;
+	background:#CACACA;
+	border-radius:5px;
+	height:300px;
+	text-align: center;
+	margin-top:0px;
+}
+li{
+	display:-webkit-inline-box;
+	padding:0px 300px 0px 100px;
+
+
+	color:#CC5B12;
+}
+li a{
+	text-decoration:none;
+	background-color:transparent;
+}
